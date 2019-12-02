@@ -1,4 +1,4 @@
-# Advent-of-Code
+# Advent of Code
 
 My answers of the coding challenges for the [Advent of Code 2019](https://adventofcode.com/). I used C# to do the challenges.
 
