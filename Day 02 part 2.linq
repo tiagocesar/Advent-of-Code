@@ -10,10 +10,8 @@ void Main()
 			
 			nums[1] = noun;
 			nums[2] = verb;
-
-			int i = 0;
 			
-			for (; i < nums.Length; i += 4)
+			for (var i = 0; i < nums.Length; i += 4)
 			{
 				if (nums[i] == 99) break;
 
